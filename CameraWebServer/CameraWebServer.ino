@@ -13,9 +13,9 @@
 const char *ssid = "eduroam";
 
 // Try these credentials first
-const char *identity = "mvan0063@student.monash.edu";
-const char *username = "mvan0063@student.monash.edu";
-const char *password = "Sold01Feel%";
+const char *identity = "***";
+const char *username = "**";
+const char *password = "***";
 
 void startCameraServer();
 void setupLedFlash();
